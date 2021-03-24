@@ -1,0 +1,203 @@
+[
+    {
+        "articul": "12814s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 10,
+        "image": "https://via.placeholder.com/150",
+        "popular": "5"
+    },
+    {
+        "articul": "22284s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 111,
+        "image": "https://via.placeholder.com/150",
+        "popular": "5"
+
+    },
+    {
+        "articul": "33284s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 222,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "42484s111",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 322,
+        "image": "https://via.placeholder.com/150",
+        "popular": "5"
+
+    },
+    {
+        "articul": "52212284s",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 422,
+        "image": "https://via.placeholder.com/150"
+    },
+	    {
+        "articul": "62484s",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 522,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "722284s",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 622,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "823384s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 722,
+        "image": "https://via.placeholder.com/150",
+        "popular": "2"
+
+    },
+    {
+        "articul": "924484s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 822,
+        "image": "https://via.placeholder.com/150",
+        "popular": "2"
+    },
+    {
+        "articul": "1125584s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 922,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "1226684s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 992,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "1327784s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 922,
+        "image": "https://via.placeholder.com/150"
+    },
+	{
+        "articul": "152814s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 122,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "162284s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 111,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "173284s",
+		"category": "books",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Comics & Graphic Novels",
+        "price": 222,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "182484s111",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 322,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "192212284s",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 422,
+        "image": "https://via.placeholder.com/150"
+    },
+	    {
+        "articul": "212484s",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 522,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "2222284s",
+		"category": "dress",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Short-sleeved dresses",
+        "price": 622,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "2323384s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 722,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "2424484s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Drawstring T-Shirt",
+        "price": 822,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "25584s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 922,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "26684s",
+		"category": "shoes",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "Women's Shoes",
+        "price": 999,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "articul": "27784s",
+		"category": "cat",
+		"info": "This is the latest and greatest product from Derp corp.",
+        "title": "This is the latest",
+        "price": 999,
+        "image": "https://via.placeholder.com/150"
+    }
+    
+]
